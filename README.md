@@ -10,7 +10,7 @@
 
 
 #### News
--  Added Colab Demo. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lOzh9Rpz4cdLput6Y00sU4tNuZJTtjBY#scrollTo=SRd46QaXlklQ)
+-  Added Colab Demo. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12wj9QD29rYEaZUwRl6jfva-mI99CuqAe)
 -  Restormer is selected for an ORAL presentation at CVPR 2022 :dizzy:
 -  Training codes are released :fire:
 - Testing codes and pre-trained models are released!
